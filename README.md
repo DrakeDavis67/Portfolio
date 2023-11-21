@@ -6,14 +6,12 @@
 ## Education 			        		
 - B.S., Business Administration, Concentration: Business Analytics| The University of Texas at Dallas (_May 2024_)
 
-## Work Experience
-**Business Analyst Internship @ Magnolia Lodging (_April 2023 - July 2023_)**
--Oversaw data management for 9 hotel properties, enhancing record accuracy and promptness.
--Monitored residential project housing data, contributing to streamlined project management.
--Performed detailed business and financial analyses for potential ventures and hotel acquisitions, utilizing advanced Excel functionalities.
--Reviewed financial documents to drive performance improvements and growth, along with rigorous project cost tracking for fiscal integrity.
--Directed strategic financial planning and managed project expenses to adhere to budgets, while also improving operational process efficiencies.
--Executed comprehensive evaluations of potential hotel acquisitions, using data-driven strategies to assess feasibility.
+## Certifications
+**Google Data Analytics Professional Certificate**
+-description 
+**SQL for Data Science by UT Davis**
+-description
+
 
 
 ## Projects
